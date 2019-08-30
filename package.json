@@ -1,0 +1,23 @@
+{
+  "name": "saltlines-ruler",
+  "version": "1.0.0",
+  "description": "simple utility for bringing all css units into javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/saltlines.test.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpegzilla/saltlines.ruler.js.git"
+  },
+  "keywords": [
+    "css", "units", "measurment"
+  ],
+  "author": "jpegzilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpegzilla/saltlines.ruler.js/issues"
+  },
+  "homepage": "https://github.com/jpegzilla/saltlines.ruler.js#readme"
+}
