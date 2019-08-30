@@ -8,6 +8,8 @@ saltlines.ruler.js is a small javascript utility that creates an easier way to i
 
 saltlines.ruler provides an object called `r` or `ruler`. this contains every css unit.
 
+simply `npm install saltlines-ruler`.
+
 ### access the units
 
 to access units, for example, one vh as well as her sister unit vw, CSS units representing 1/100 of the current window's height and width (respectively), you'd do something like this:
