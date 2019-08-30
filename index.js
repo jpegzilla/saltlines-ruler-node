@@ -7,7 +7,7 @@ const ruler = () => {
   if (typeof window === "undefined") {
     throw new Error("[NOBROWSER] saltlines only works if window is defined.");
   } else {
-    let vh, vw, vmin, vmax, ch, pc, em, rem, inch, cm, ppi, diag, aspectRatio;
+    let vh, vw, vmin, vmax, aspectRatio;
     vh = window.innerHeight;
     vw = window.innerWidth;
     let ruler = (r = {});
